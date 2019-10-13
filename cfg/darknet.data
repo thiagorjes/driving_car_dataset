@@ -2,4 +2,4 @@ classes=5
 train=/home/tgcavalcante/GITHUB/waymo_od_w2dl/data/train.txt
 valid=/home/tgcavalcante/GITHUB/waymo_od_w2dl/data/test.txt
 names=/home/tgcavalcante/GITHUB/waymo_od_w2dl/cfg/darknet.names
-backup=/home/tgcavalcante/GITHUB/waymo_od_w2dl/weights/
+backup=/home/tgcavalcante/GITHUB/waymo_od_w2dl/backup/
