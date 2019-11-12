@@ -1,0 +1,3 @@
+Udacity -> images and labels (car, truck, pedestrian,traffic light)
+Kitti -> images and labels (car, truck, pedestrian,traffic light)
+waymo -> images and labels (car, truck, pedestrian)
