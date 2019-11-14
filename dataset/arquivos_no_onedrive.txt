@@ -1,3 +1,6 @@
 faça o download no link abaixo
 
-https://1drv.ms/u/s!AuWRnPR26byUjstFvK9-uftTZjA8zg?e=ERmdpf
+waymo:    https://1drv.ms/u/s!AuWRnPR26byUjstFvK9-uftTZjA8zg?e=ERmdpf
+autti:    https://1drv.ms/u/s!AuWRnPR26byUk70qTyrWUL6y9LYy6g?e=UpbhqK
+crowdAI:  https://1drv.ms/u/s!AuWRnPR26byUk70reaPGS5fyoqjxtw?e=rqmXUT
+kitti:    https://1drv.ms/u/s!AuWRnPR26byUk70sLu3-i9oV4FFFRA?e=VyMMY9
